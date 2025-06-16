@@ -5,7 +5,6 @@ import { CgWebsite } from 'react-icons/cg';
 import { motion } from 'framer-motion';
 import BottomNavbar from './BottomNavbar';
 import { AiOutlinePython } from "react-icons/ai";
-import { IoHardwareChipOutline } from "react-icons/io5";
 import { FaComputer } from "react-icons/fa6";
 function About() {
   return (
