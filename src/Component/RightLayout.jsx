@@ -1,6 +1,5 @@
 import React from 'react'
 import Navbar from './Navbar';
-import LeftLayout from './LeftLayout';
 import { motion } from 'framer-motion';
 import BottomNavbar from './BottomNavbar';
 import { FaGraduationCap, FaDownload, FaServer } from "react-icons/fa";
